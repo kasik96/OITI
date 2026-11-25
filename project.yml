@@ -19,6 +19,7 @@ targets:
       path: App/Info.plist
       properties:
         CFBundleDisplayName: Open Infrared Thermal Imager
+        ITSAppUsesNonExemptEncryption: false
         UILaunchScreen: {}
         NSCameraUsageDescription: Shows the live image from the USB thermal camera.
         UIFileSharingEnabled: true
