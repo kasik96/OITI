@@ -34,7 +34,7 @@ thermal,infrared,camera,temperature,heat,IR,USB,UVC,thermography,imager
 https://github.com/kasik96/OITI
 
 ## Privacy Policy URL
-(host docs/app-store/privacy-policy.md at a public URL — e.g. GitHub Pages or a public Gist)
+https://gist.github.com/kasik96/bd83040a46c59674f4c62f2b8b339c0e
 
 ## App Review notes (IMPORTANT — hardware dependency)
 This app requires an external USB‑C thermal camera (InfiRay/Tiny1C‑class 256×192 UVC, VID 0x3034)
