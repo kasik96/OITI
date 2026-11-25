@@ -1,0 +1,17 @@
+# Build output
+build/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+
+# Generated / local
+.DS_Store
+*.log
+*.xapk
+
+# Reverse-engineering scratch & large captures (kept out of the repo; test fixture lives in Tests/Fixtures)
+research/
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
